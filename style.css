@@ -1,0 +1,34 @@
+body {
+    background: url("https://previews.123rf.com/images/azaman357/azaman3571612/azaman357161200056/69139253-feliz-a%C3%B1o-nuevo-y-feliz-fondo-de-navidad-bandera-de-la-tarjeta-de-felicitaci%C3%B3n-con-decoraci%C3%B3n-colgando-juguet.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+div {
+    height: 420px;
+    width: 700px;
+    background: url("https://image.freepik.com/vector-gratis/fondo-navidad-copos-nieve-colgando_1048-9465.jpg");
+    background-size: cover;
+    border: 8px #D50000 solid;
+    font-size: 24px;
+    padding: 20px;
+    margin: 60px auto;
+    font-family: 'Kaushan Script';
+    text-align: center;
+    border-radius: 100px;
+    box-shadow: 5px 5px 10px red, 10px 10px 25px red, 8px 10px 6px white;
+}
+
+div:hover {
+    background: url("https://cdnmundo1.img.sputniknews.com/images/108435/98/1084359808.jpg");
+    transform: scale(1.8);
+    transition: transform 4s;
+}
+
+h1 {
+    text-shadow: 4px 6px 10px red;
+}
+
+img {
+    width: 10%;
+}
